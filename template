@@ -1,0 +1,7 @@
+// env
+FAKER_LOCALE=id_ID
+
+// faker locale at config>app
+    'faker_locale' => env('FAKER_LOCALE', 'en_US'),
+
+
